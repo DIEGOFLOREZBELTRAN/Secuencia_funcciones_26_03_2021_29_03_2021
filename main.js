@@ -1,25 +1,26 @@
 // Codigo en funcion
-function Saludar(p1){
+function Saludar(p1)
+  {
     console.log(`Hola ${p1}`);
     return null;
-}
+  }
 
-Saludar("Miguel Angel");
-Saludar("Marly");
-Saludar("Orlando");
-Saludar("Fabian");
+Saludar("Diego Florez");
+Saludar("Leydi");
+Saludar("Carlos");
+Saludar("Erika");
 
 
 // Codigo ens ecuencia
 let saludar;
-saludar = "Miguel Angel";
-console.warn(`Hola ${saludar}`);
-saludar = "Marly";
-console.warn(`Hola ${saludar}`);
-saludar = "Orlando";
-console.warn(`Hola ${saludar}`);
-saludar = "Fabian";
-console.warn(`Hola ${saludar}`);
+    saludar = "Diego Florez";
+        console.warn(`Hola ${saludar}`);
+    saludar = "Leydi";
+        console.warn(`Hola ${saludar}`);
+    saludar = "Carlos";
+        console.warn(`Hola ${saludar}`);
+    saludar = "Erika";
+        console.warn(`Hola ${saludar}`);
 
 
 // debugger;
